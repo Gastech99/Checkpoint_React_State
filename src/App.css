@@ -1,0 +1,9 @@
+.global{
+  position: absolute;
+  justify-content: center;
+  justify-items: center;
+}
+.bg-purple-900{
+  position: relative;
+  justify-content: center;
+}
