@@ -1,0 +1,2 @@
+# Checkpoint_React_State
+Instructions Créez un projet à l’aide de create-react-app. Transformez l’application.js en un composant basé sur une classe. Implémentez un état pour cette classe contenant un Person ={ fullName,bio, imgSrc, profession} et un booléen shows. Ajoutez un bouton qui bascule l’état d’affichage. Lorsque l’état d’affichage est vrai, le profil de la personne apparaît. Créez un champ qui affiche l’intervalle de temps écoulé depuis le montage du dernier composant à l’aide du cycle de vie du composant. Astuce : utilisez la méthode setInterval.
